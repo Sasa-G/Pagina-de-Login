@@ -8,7 +8,7 @@
  - Projeto construído durante o curso PROPROFISSÃO (ou outro curso).
 
 ## Acesso
- [Clique aqui para acessar! :)](https://sasa-g.github.io/CasaEmCSS/)
+ [Clique aqui para acessar! :)]()
 
 ## Tecnologias
 
